@@ -1,5 +1,4 @@
 # hello-world
 Just another repository...
 
-Welcome!
-I generally don't drink coffee, but if I had to chose it would be JAVA. 
+Welcome to my GitHub so you can see all the major projects I have done so far!
